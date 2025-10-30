@@ -8,7 +8,7 @@
 # input_filename = dbutils.widgets.get("INPUT_FILE_NAME")
 input_filename = 'input/polygonList_Olympic_master.csv'
 # project_name   = dbutils.widgets.get("PROJECT_NAME")
-project_name = 'test_job/nagino/olympic_by_hirako'
+project_name = 'olympic/gps_statistics'
 
 
 # COMMAND ----------
